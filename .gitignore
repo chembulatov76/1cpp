@@ -26,3 +26,6 @@ deps/STLport/
 # junction на нативные заголовки VC6 (создаются build_icl.ps1, не хранятся в git)
 deps/stlport_icl/include/
 deps/stlport_icl/crt/
+
+# OdbcFix1C build output (release copy goes to dist/)
+fix1c/Out/
